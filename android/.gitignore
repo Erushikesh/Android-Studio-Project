@@ -1,0 +1,20 @@
+# Gradle files
+/.gradle/
+/captures/
+gradle-wrapper.jar
+gradlew
+gradlew.bat
+
+# Local properties
+/local.properties
+
+# Generated files
+GeneratedPluginRegistrant.java
+
+# Build directories and files
+.cxx/
+
+# Flutter key properties and keystore
+key.properties
+**/*.keystore
+**/*.jks
